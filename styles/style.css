@@ -1,0 +1,43 @@
+*{
+  border: 1px solid red;
+}
+
+body{
+  background: beige;
+}
+
+img{
+  width: 150px;
+}
+
+#tails-coin{
+  display: none;
+}
+
+.game{
+  margin: 0 auto;
+  display: block;
+  width: 600px;
+  text-align: center;
+}
+
+#hud{
+  display: flex;
+  justify-content: center;
+}
+
+.meter{
+  margin: 0px 20px;
+}
+
+.flex{
+  display: flex;
+}
+
+.dog{
+  opacity: 0;
+}
+
+#dog-0{
+  opacity: 1;
+}
